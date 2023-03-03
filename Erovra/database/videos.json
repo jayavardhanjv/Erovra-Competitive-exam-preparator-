@@ -1,0 +1,2351 @@
+{
+  "videos": {
+    "1": {
+      "youtubeID": "lb7wT1gVU7Y",
+      "title": "GK",
+      "noq": 4
+    },
+    "2": {
+      "youtubeID": "5Xy-t8k_M4A",
+      "title": "Aptitude",
+      "noq": 4
+    },
+    "3": {
+      "youtubeID": "WC-g0JtEIwM",
+      "title": "Basic Computer science",
+      "noq": 4
+    },
+    "4": {
+      "youtubeID": "CHnTTzD1pAQ",
+      "title": "English",
+      "noq": 4
+    }
+  },
+  "quiz": {
+    "lb7wT1gVU7Y": {
+      "1":{
+      "questions": [
+        {
+          "title": "Which animal is known as the 'Ship of the Desert?",
+          "options": [
+            {
+              "title": "camel"
+            },
+            {
+              "title": "sheep"
+            },
+            {
+              "title": "cow"
+            },
+            {
+              "title": "bull"
+            }
+          ]
+        },
+        {
+          "title": "Which is the largest site of Indus civilization?",
+          "options": [
+            {
+              "title": "egypt"
+            },
+            {
+              "title": "mesapatonia"
+            },
+            {
+              "title": "Mohenjodaro"
+            },
+            {
+              "title": "aryan"
+            }
+          ]
+        },
+        {
+          "title": "Who wrote Natya Shastra?",
+          "options": [
+            {
+              "title": "narada"
+            },
+            {
+              "title": "valmiki"
+            },
+            {
+              "title": "Bharata Muni"
+            },
+            {
+              "title": "bramhi"
+            }
+          ]
+        },
+        {
+          "title": "Which is the biggest continent in the world?",
+          "options": [
+            {
+              "title": "North America"
+            },
+            {
+              "title": "Asia"
+            },
+            {
+              "title": "Africa"
+            },
+            {
+              "title": "Australia"
+            }
+          ]
+        },
+        {
+          "title": "Which is longest river in the world?",
+          "options": [
+            {
+              "title": "ganga"
+            },
+            {
+              "title": "Amazon"
+            },
+            {
+              "title": "Niger"
+            },
+            {
+              "title": "Nile"
+            }
+          ]
+        },
+        {
+          "title": "Which bank is called bankers bank of India?",
+          "options": [
+            {
+              "title": "Reserve Bank of India"
+            },
+            {
+              "title": "Punjab National Bank"
+            },
+            {
+              "title": "State Bank of India"
+            },
+            {
+              "title": "ICICI Bank"
+            }
+          ]
+        },
+        {
+          "title": "Which is largest island in the world?",
+          "options": [
+            {
+              "title": "New Guinea"
+            },
+            {
+              "title": "Andaman Nicobar"
+            },
+            {
+              "title": "Greenland"
+            },
+            {
+              "title": "Hawaii"
+            }
+          ]
+        },
+        {
+          "title": "Which is largest flower in the world?",
+          "options": [
+            {
+              "title": "Rafflesia"
+            },
+            {
+              "title": "Jasmine"
+            },
+            {
+              "title": "Balloon Flower"
+            },
+            {
+              "title": "Camellia"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": " Tsunami is a word in which language?",
+          "options": [
+            {
+              "title": "Hindi"
+            },
+            {
+              "title": "Urdu"
+            },
+            {
+              "title": "Japanese"
+            },
+            {
+              "title": "French"
+            }
+          ]
+        },
+        {
+          "title": "Which continent is known as Dark Continent?",
+          "options": [
+            {
+              "title": "Asia"
+            },
+            {
+              "title": "South America"
+            },
+            {
+              "title": "Australia"
+            },
+            {
+              "title": "Africa"
+            }
+          ]
+        },
+        {
+          "title": "On which river the Uri dam is constructed?",
+          "options": [
+            {
+              "title": "Beas"
+            },
+            {
+              "title": "Jhalam"
+            },
+            {
+              "title": "Ganga"
+            },
+            {
+              "title": "Sutlej"
+            }
+          ]
+        },
+        {
+          "title": "Which is largest desert in the world?",
+          "options": [
+            {
+              "title": "KALAHARI"
+            },
+            {
+              "title": "GOBI"
+            },
+            {
+              "title": "TAKLAMAKAN"
+            },
+            {
+              "title": "SAHARA"
+            }
+          ]
+        },
+        {
+          "title": "How many letters are there in the English alphabet?",
+          "options": [
+            {
+              "title": "20"
+            },
+            {
+              "title": "26"
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "25"
+            }
+          ]
+        },
+        {
+          "title": "Who was the inventor of electricity?",
+          "options": [
+            {
+              "title": "Benjamin"
+            },
+            {
+              "title": "Benjamin Franklin"
+            },
+            {
+              "title": "Leonardo da Vinci"
+            },
+            {
+              "title": "Vikings"
+            }
+          ]
+        },
+        {
+          "title": "Which metal is the lightest metal in world?",
+          "options": [
+            {
+              "title": "Zinc"
+            },
+            {
+              "title": "Lithium"
+            },
+            {
+              "title": "Platinum"
+            },
+            {
+              "title": "Gold"
+            }
+          ]
+        },
+        {
+          "title": "LED stands for what?",
+          "options": [
+            {
+              "title": "Light emitting Device"
+            },
+            {
+              "title": "Low emitting Diode"
+            },
+            {
+              "title": "Light electronic Diode"
+            },
+            {
+              "title": "Light Emitting Diode"
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "5Xy-t8k_M4A": {
+      "1":{
+      "questions": [
+        {
+          "title": "In an Arithmetic Progression, if a = 28, d = -4, n = 7, then an is:",
+          "options": [
+            {
+              "title": "4"
+            },
+            {
+              "title": "5"
+            },
+            {
+              "title": "3"
+            },
+            {
+              "title": "7"
+            }
+          ]
+        },
+        {
+          "title": " If a = 10 and d = 10, then first four terms will be:",
+          "options": [
+            {
+              "title": " 10, 30, 50, 60"
+            },
+            {
+              "title": " 10, 60, 50, 60"
+            },
+            {
+              "title": " 10, 30, 70, 60"
+            },
+            {
+              "title": " 20, 30, 50, 60"
+            }
+          ]
+        },
+        {
+          "title": "The first term and common difference for the A.P. 3, 1, -1, -3 is:",
+          "options": [
+            {
+              "title": "1 and 3"
+            },
+            {
+              "title": "-1 and 3"
+            },
+            {
+              "title": "1 and -3"
+            },
+            {
+              "title": "-1 and -3"
+            }
+          ]
+        },
+        {
+          "title": "30th term of the A.P: 10, 7, 4, …, is",
+          "options": [
+            {
+              "title": "76"
+            },
+            {
+              "title": "77"
+            },
+            {
+              "title": "97"
+            },
+            {
+              "title": "-77"
+            }
+          ]
+        },
+        {
+          "title": "11th term of the A.P. -3, -1/2, 2 …. Is",
+          "options": [
+            {
+              "title": "22"
+            },
+            {
+              "title": "29"
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "26"
+            }
+          ]
+        },
+        {
+          "title": "The missing terms in AP: __, 13, __, 3 are:",
+          "options": [
+            {
+              "title": "18 and 8"
+            },
+            {
+              "title": "18 and -8"
+            },
+            {
+              "title": "18 and 28"
+            },
+            {
+              "title": "8 and 18"
+            }
+          ]
+        },
+        {
+          "title": "Which term of the A.P. 3, 8, 13, 18, … is 78?",
+          "options": [
+            {
+              "title": "12th"
+            },
+            {
+              "title": "52th"
+            },
+            {
+              "title": "13th"
+            },
+            {
+              "title": "16th"
+            }
+          ]
+        },
+        {
+          "title": " The 21st term of AP whose first two terms are -3 and 4 is:",
+          "options": [
+            {
+              "title": "137"
+            },
+            {
+              "title": "213"
+            },
+            {
+              "title": "456"
+            },
+            {
+              "title": "32"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": " If 17th term of an A.P. exceeds its 10th term by 7. The common difference is:",
+          "options": [
+            {
+              "title": "1"
+            },
+            {
+              "title": "2"
+            },
+            {
+              "title": "3"
+            },
+            {
+              "title": "4"
+            }
+          ]
+        },
+        {
+          "title": " The number of multiples of 4 between 10 and 250 is:",
+          "options": [
+            {
+              "title": "23"
+            },
+            {
+              "title": " 12"
+            },
+            {
+              "title": "60"
+            },
+            {
+              "title": "40"
+            }
+          ]
+        },
+        {
+          "title": "20th term from the last term of the A.P. 3, 8, 13, …, 253 is:",
+          "options": [
+            {
+              "title": "152"
+            },
+            {
+              "title": "123"
+            },
+            {
+              "title": "187"
+            },
+            {
+              "title": "158"
+            }
+          ]
+        },
+        {
+          "title": "The sum of the first five multiples of 3 is:",
+          "options": [
+            {
+              "title": "65"
+            },
+            {
+              "title": "45"
+            },
+            {
+              "title": "53"
+            },
+            {
+              "title": "25"
+            }
+          ]
+        },
+        {
+          "title": "The 10th term of the AP: 5, 8, 11, 14, … is",
+          "options": [
+            {
+              "title": "20"
+            },
+            {
+              "title": "26"
+            },
+            {
+              "title": "32"
+            },
+            {
+              "title": "25"
+            }
+          ]
+        },
+        {
+          "title": "In an AP, if d = -4, n = 7, an = 4, then a is",
+          "options": [
+            {
+              "title": "24"
+            },
+            {
+              "title": "15"
+            },
+            {
+              "title": "53"
+            },
+            {
+              "title": "28"
+            }
+          ]
+        },
+        {
+          "title": " If the 2nd term of an AP is 13 and the 5th term is 25, then its 7th term is",
+          "options": [
+            {
+              "title": "30"
+            },
+            {
+              "title": "31"
+            },
+            {
+              "title": "32"
+            },
+            {
+              "title": "33"
+            }
+          ]
+        },
+        {
+          "title": "Which term of the AP: 21, 42, 63, 84,… is 210?",
+          "options": [
+            {
+              "title": "9th"
+            },
+            {
+              "title": "10th"
+            },
+            {
+              "title": "11th"
+            },
+            {
+              "title": "12th"
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "WC-g0JtEIwM": {
+      "1":{
+      "questions": [
+        {
+          "title": "Who is the father of Computers?",
+          "options": [
+            {
+              "title": " James Gosling"
+            },
+            {
+              "title": "Charles Babbage"
+            },
+            {
+              "title": "Dennis"
+            },
+            {
+              "title": "Bjarne Stroustrup"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is the correct abbreviation of COMPUTER?",
+          "options": [
+            {
+              "title": "Commonly Occupied Machines Used in Technical and Educational Research"
+            },
+            {
+              "title": "Commonly Operated Machines Used in Technical and Environmental Research"
+            },
+            {
+              "title": "Commonly Oriented Machines Used in Technical and Educational Research"
+            },
+            {
+              "title": "Commonly Operated Machines Used in Technical and Educational Research"
+            }
+          ]
+        },
+        {
+          "title": "What is the full form of CPU?",
+          "options": [
+            {
+              "title": "Computer Processing Unit"
+            },
+            {
+              "title": "Computer Principle Unit"
+            },
+            {
+              "title": "Central Processing Unit"
+            },
+            {
+              "title": "Control Processing Unit"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following language does the computer understand?",
+          "options": [
+            {
+              "title": "Computer understands only C Language"
+            },
+            {
+              "title": "Computer understands only Assembly Language"
+            },
+            {
+              "title": "Computer understands only Binary Language"
+            },
+            {
+              "title": "Computer understands only BASIC"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following computer language is written in binary codes only?",
+          "options": [
+            {
+              "title": "pascal"
+            },
+            {
+              "title": "machine language"
+            },
+            {
+              "title": "c"
+            },
+            {
+              "title": "c#"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is the brain of the computer?",
+          "options": [
+            {
+              "title": " Central Processing Unit"
+            },
+            {
+              "title": "memory"
+            },
+            {
+              "title": "alu"
+            },
+            {
+              "title": "control unit"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is not a characteristic of a computer?",
+          "options": [
+            {
+              "title": "Versatility"
+            },
+            {
+              "title": "Accuracy"
+            },
+            {
+              "title": "Diligence"
+            },
+            {
+              "title": "iq"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is the smallest unit of data in a computer?",
+          "options": [
+            {
+              "title": "Bit"
+            },
+            {
+              "title": "KB"
+            },
+            {
+              "title": "MB"
+            },
+            {
+              "title": "nibble"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": "Which of the following monitor looks like a television and are normally used with non-portable computer systems?",
+          "options": [
+            {
+              "title": "LED"
+            },
+            {
+              "title": "LCD"
+            },
+            {
+              "title": "CRT"
+            },
+            {
+              "title": "none"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is not a type of computer code?",
+          "options": [
+            {
+              "title": "EDIC"
+            },
+            {
+              "title": " ASCII"
+            },
+            {
+              "title": "BCD"
+            },
+            {
+              "title": "EBCDIC"
+            }
+          ]
+        },
+        {
+          "title": " Which of the following part of a processor contains the hardware necessary to perform all the operations required by a computer?",
+          "options": [
+            {
+              "title": "Controller"
+            },
+            {
+              "title": "Registers"
+            },
+            {
+              "title": "Cache"
+            },
+            {
+              "title": "Data path"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is designed to control the operations of a computer?",
+          "options": [
+            {
+              "title": "User"
+            },
+            {
+              "title": "Application Software"
+            },
+            {
+              "title": "System Software"
+            },
+            {
+              "title": "Utility Software"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following device use positional notation to represent a decimal number?",
+          "options": [
+            {
+              "title": "Pascaline"
+            },
+            {
+              "title": "Abacus"
+            },
+            {
+              "title": "Computer"
+            },
+            {
+              "title": "Calculator"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is used in EBCDIC?",
+          "options": [
+            {
+              "title": "Super Computers"
+            },
+            {
+              "title": "Mainframes"
+            },
+            {
+              "title": "Machine Codes"
+            },
+            {
+              "title": "Programming"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following are physical devices of a computer?",
+          "options": [
+            {
+              "title": "Hardware"
+            },
+            {
+              "title": "Software"
+            },
+            {
+              "title": "System Software"
+            },
+            {
+              "title": "Package"
+            }
+          ]
+        },
+        {
+          "title": " Which of the following defines the assigned ordering among the characters used by the computer?",
+          "options": [
+            {
+              "title": "Accumulation"
+            },
+            {
+              "title": "Sorting"
+            },
+            {
+              "title": "Collating Sequence"
+            },
+            {
+              "title": "Unicode"
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "CHnTTzD1pAQ": {
+      "1":{
+      "questions": [
+        {
+          "title": " They hate it when their football team ________.",
+          "options": [
+            {
+              "title": "loses"
+            },
+            {
+              "title": "looses"
+            },
+            {
+              "title": "lost"
+            },
+            {
+              "title": "losing"
+            }
+          ]
+        },
+        {
+          "title": "By the time he was thirty, he ________ many tournaments.",
+          "options": [
+            {
+              "title": "won"
+            },
+            {
+              "title": "had won"
+            },
+            {
+              "title": "has had won"
+            },
+            {
+              "title": "was winning"
+            }
+          ]
+        },
+        {
+          "title": " Even if she _______ them, they wouldnt have come.",
+          "options": [
+            {
+              "title": "asked"
+            },
+            {
+              "title": "had asked"
+            },
+            {
+              "title": "would ask"
+            },
+            {
+              "title": "would have asked"
+            }
+          ]
+        },
+        {
+          "title": "It was raining heavy yesterday, so they ________ out.",
+          "options": [
+            {
+              "title": "did not go"
+            },
+            {
+              "title": "did not went"
+            },
+            {
+              "title": "would not go"
+            },
+            {
+              "title": "would not gone"
+            }
+          ]
+        },
+        {
+          "title": "Yesterday she got a call from her old friend, and the friend ________ her the whole story.",
+          "options": [
+            {
+              "title": "tell"
+            },
+            {
+              "title": "tells"
+            },
+            {
+              "title": "told"
+            },
+            {
+              "title": "has been telling"
+            }
+          ]
+        },
+        {
+          "title": "_______ students achieve good marks if they study hard.",
+          "options": [
+            {
+              "title": " Most"
+            },
+            {
+              "title": "Most of"
+            },
+            {
+              "title": "Most of the"
+            },
+            {
+              "title": "The most"
+            }
+          ]
+        },
+        {
+          "title": "If she was free, she ________ to you.",
+          "options": [
+            {
+              "title": "talked"
+            },
+            {
+              "title": "can talk"
+            },
+            {
+              "title": "could talked"
+            },
+            {
+              "title": "would talk"
+            }
+          ]
+        },
+        {
+          "title": "The number of friends and family members at the party ________ amazing.",
+          "options": [
+            {
+              "title": "was"
+            },
+            {
+              "title": "were"
+            },
+            {
+              "title": "had"
+            },
+            {
+              "title": "have"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": "If you work really hard, you ________ good score in the upcoming examination.",
+          "options": [
+            {
+              "title": "will get"
+            },
+            {
+              "title": "will got"
+            },
+            {
+              "title": "would get"
+            },
+            {
+              "title": "would got"
+            }
+          ]
+        },
+        {
+          "title": "They have all been friends ________ their first match as a team.",
+          "options": [
+            {
+              "title": "since"
+            },
+            {
+              "title": " for"
+            },
+            {
+              "title": "from"
+            },
+            {
+              "title": "during"
+            }
+          ]
+        },
+        {
+          "title": " When she was in the university, she ________ wake up early in the morning.",
+          "options": [
+            {
+              "title": "should"
+            },
+            {
+              "title": "would"
+            },
+            {
+              "title": "will"
+            },
+            {
+              "title": "would have"
+            }
+          ]
+        },
+        {
+          "title": "He devotes much of his time ________ for the future.",
+          "options": [
+            {
+              "title": "to planning"
+            },
+            {
+              "title": " to plan"
+            },
+            {
+              "title": "plan"
+            },
+            {
+              "title": "planning"
+            }
+          ]
+        },
+        {
+          "title": "She is going to quit her job ________ they give her a pay rise.",
+          "options": [
+            {
+              "title": "or"
+            },
+            {
+              "title": "until"
+            },
+            {
+              "title": "unless"
+            },
+            {
+              "title": "providing"
+            }
+          ]
+        },
+        {
+          "title": "Near the historic monument, there is a bridge ________ the Thames River.",
+          "options": [
+            {
+              "title": "above"
+            },
+            {
+              "title": "over"
+            },
+            {
+              "title": "off"
+            },
+            {
+              "title": "towards"
+            }
+          ]
+        },
+        {
+          "title": "Katherine has finished her work, now she is ________ home.",
+          "options": [
+            {
+              "title": "going"
+            },
+            {
+              "title": "going to"
+            },
+            {
+              "title": "going for"
+            },
+            {
+              "title": "going to the"
+            }
+          ]
+        },
+        {
+          "title": " Its the first time I _______ sea-food in my life.",
+          "options": [
+            {
+              "title": "eat"
+            },
+            {
+              "title": "eaten"
+            },
+            {
+              "title": "have eaten"
+            },
+            {
+              "title": "had eaten"
+            }
+          ]
+        }
+      ]
+    }
+    }
+  },
+  "answers": {
+    "lb7wT1gVU7Y": {
+      "1":{
+      "questions": [
+        {
+          "title": "Which animal is known as the 'Ship of the Desert?",
+          "options": [
+            {
+              "correct":true,
+              "title": "camel"
+            },
+            {
+              "title": "sheep"
+            },
+            {
+              "title": "cow"
+            },
+            {
+              "title": "bull"
+            }
+          ]
+        },
+        {
+          "title": "Which is the largest site of Indus civilization?",
+          "options": [
+            {
+              "title": "egypt"
+            },
+            {
+              "title": "mesapatonia"
+            },
+            {
+              "title": "Mohenjodaro",
+              "correct": true
+            },
+            {
+              "title": "aryan"
+            }
+          ]
+        },
+        {
+          "title": "Who wrote Natya Shastra?",
+          "options": [
+            {
+              "title": "narada"
+            },
+            {
+              "title": "valmiki"
+            },
+            {
+              "title": "Bharata Muni",
+              "correct": true
+            },
+            {
+              "title": "bramhi"
+            }
+          ]
+        },
+        {
+          "title": "Which is the biggest continent in the world?",
+          "options": [
+            {
+              "title": "North America"
+            },
+            {
+              "title": "Asia",
+              "correct": true
+            },
+            {
+              "title": "Africa"
+            },
+            {
+              "title": "Australia"
+            }
+          ]
+        },
+        {
+          "title": "Which is longest river in the world?",
+          "options": [
+            {
+              "title": "ganga"
+            },
+            {
+              "title": "Amazon"
+            },
+            {
+              "title": "Niger"
+            },
+            {
+              "title": "Nile",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which bank is called bankers bank of India?",
+          "options": [
+            {
+              "title": "Reserve Bank of India",
+              "correct": true
+            },
+            {
+              "title": "Punjab National Bank"
+            },
+            {
+              "title": "State Bank of India"
+            },
+            {
+              "title": "ICICI Bank"
+            }
+          ]
+        },
+        {
+          "title": "Which is largest island in the world?",
+          "options": [
+            {
+              "title": "New Guinea"
+            },
+            {
+              "title": "Andaman Nicobar"
+            },
+            {
+              "title": "Greenland",
+              "correct": true
+            },
+            {
+              "title": "Hawaii"
+            }
+          ]
+        },
+        {
+          "title": "Which is largest flower in the world?",
+          "options": [
+            {
+              "title": "Rafflesia",
+              "correct": true
+            },
+            {
+              "title": "Jasmine"
+            },
+            {
+              "title": "Balloon Flower"
+            },
+            {
+              "title": "Camellia"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": " Tsunami is a word in which language?",
+          "options": [
+            {
+              "title": "Hindi"
+            },
+            {
+              "title": "Urdu"
+            },
+            {
+              "title": "Japanese",
+              "correct": true
+            },
+            {
+              "title": "French"
+            }
+          ]
+        },
+        {
+          "title": "Which continent is known as Dark Continent?",
+          "options": [
+            {
+              "title": "Asia"
+            },
+            {
+              "title": "South America"
+            },
+            {
+              "title": "Australia"
+            },
+            {
+              "title": "Africa",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "On which river the Uri dam is constructed?",
+          "options": [
+            {
+              "title": "Beas"
+            },
+            {
+              "title": "Jhalam",
+              "correct": true
+            },
+            {
+              "title": "Ganga"
+            },
+            {
+              "title": "Sutlej"
+            }
+          ]
+        },
+        {
+          "title": "Which is largest desert in the world?",
+          "options": [
+            {
+              "title": "KALAHARI"
+            },
+            {
+              "title": "GOBI",
+              "correct": true
+            },
+            {
+              "title": "TAKLAMAKAN"
+            },
+            {
+              "title": "SAHARA"
+            }
+          ]
+        },
+        {
+          "title": "How many letters are there in the English alphabet?",
+          "options": [
+            {
+              "title": "20"
+            },
+            {
+              "title": "26",
+              "correct": true
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "25"
+            }
+          ]
+        },
+        {
+          "title": "Who was the inventor of electricity?",
+          "options": [
+            {
+              "title": "Benjamin"
+            },
+            {
+              "title": "Benjamin Franklin",
+              "correct": true
+            },
+            {
+              "title": "Leonardo da Vinci"
+            },
+            {
+              "title": "Vikings"
+            }
+          ]
+        },
+        {
+          "title": "Which metal is the lightest metal in world?",
+          "options": [
+            {
+              "title": "Zinc"
+            },
+            {
+              "title": "Lithium",
+              "correct": true
+            },
+            {
+              "title": "Platinum"
+            },
+            {
+              "title": "Gold"
+            }
+          ]
+        },
+        {
+          "title": "LED stands for what?",
+          "options": [
+            {
+              "title": "Light emitting Device"
+            },
+            {
+              "title": "Low emitting Diode"
+            },
+            {
+              "title": "Light electronic Diode"
+            },
+            {
+              "title": "Light Emitting Diode",
+              "correct": true
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "5Xy-t8k_M4A": {
+      "1":{
+      "questions": [
+        {
+          "title": "In an Arithmetic Progression, if a = 28, d = -4, n = 7, then an is:",
+          "options": [
+            {
+              "title": "4",
+              "correct": true
+            },
+            {
+              "title": "5"
+            },
+            {
+              "title": "3"
+            },
+            {
+              "title": "7"
+            }
+          ]
+        },
+        {
+          "title": " If a = 10 and d = 10, then first four terms will be:",
+          "options": [
+            {
+              "title": " 10, 30, 50, 60"
+            },
+            {
+              "title": " 10, 20, 30, 40",
+              "correct": true
+            },
+            {
+              "title": " 10, 30, 70, 60"
+            },
+            {
+              "title": " 20, 30, 50, 60"
+            }
+          ]
+        },
+        {
+          "title": "The first term and common difference for the A.P. 3, 1, -1, -3 is:",
+          "options": [
+            {
+              "title": "1 and 3"
+            },
+            {
+              "title": "-1 and 3"
+            },
+            {
+              "title": "3 and -2",
+              "correct": true
+            },
+            {
+              "title": "-1 and -3"
+            }
+          ]
+        },
+        {
+          "title": "30th term of the A.P: 10, 7, 4, …, is",
+          "options": [
+            {
+              "title": "76"
+            },
+            {
+              "title": "77"
+            },
+            {
+              "title": "97"
+            },
+            {
+              "title": "-77",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "11th term of the A.P. -3, -1/2, 2 …. Is",
+          "options": [
+            {
+              "title": "22",
+              "correct": true
+            },
+            {
+              "title": "29"
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "26"
+            }
+          ]
+        },
+        {
+          "title": "The missing terms in AP: __, 13, __, 3 are:",
+          "options": [
+            {
+              "title": "18 and 8",
+              "correct": true
+            },
+            {
+              "title": "18 and -8"
+            },
+            {
+              "title": "18 and 28"
+            },
+            {
+              "title": "8 and 18"
+            }
+          ]
+        },
+        {
+          "title": "Which term of the A.P. 3, 8, 13, 18, … is 78?",
+          "options": [
+            {
+              "title": "12th"
+            },
+            {
+              "title": "52th"
+            },
+            {
+              "title": "13th"
+            },
+            {
+              "title": "16th",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": " The 21st term of AP whose first two terms are -3 and 4 is:",
+          "options": [
+            {
+              "title": "137",
+              "correct": true
+            },
+            {
+              "title": "213"
+            },
+            {
+              "title": "456"
+            },
+            {
+              "title": "32"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": " If 17th term of an A.P. exceeds its 10th term by 7. The common difference is:",
+          "options": [
+            {
+              "title": "1",
+              "correct": true
+            },
+            {
+              "title": "2"
+            },
+            {
+              "title": "3"
+            },
+            {
+              "title": "4"
+            }
+          ]
+        },
+        {
+          "title": " The number of multiples of 4 between 10 and 250 is:",
+          "options": [
+            {
+              "title": "23"
+            },
+            {
+              "title": " 12"
+            },
+            {
+              "title": "60",
+              "correct": true
+            },
+            {
+              "title": "40"
+            }
+          ]
+        },
+        {
+          "title": "20th term from the last term of the A.P. 3, 8, 13, …, 253 is:",
+          "options": [
+            {
+              "title": "152"
+            },
+            {
+              "title": "123"
+            },
+            {
+              "title": "187"
+            },
+            {
+              "title": "158",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "The sum of the first five multiples of 3 is:",
+          "options": [
+            {
+              "title": "65"
+            },
+            {
+              "title": "45",
+              "correct": true
+            },
+            {
+              "title": "53"
+            },
+            {
+              "title": "25"
+            }
+          ]
+        },
+        {
+          "title": "The 10th term of the AP: 5, 8, 11, 14, … is",
+          "options": [
+            {
+              "title": "20"
+            },
+            {
+              "title": "26"
+            },
+            {
+              "title": "32",
+              "correct": true
+            },
+            {
+              "title": "25"
+            }
+          ]
+        },
+        {
+          "title": "In an AP, if d = -4, n = 7, an = 4, then a is",
+          "options": [
+            {
+              "title": "24"
+            },
+            {
+              "title": "15"
+            },
+            {
+              "title": "53"
+            },
+            {
+              "title": "28",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": " If the 2nd term of an AP is 13 and the 5th term is 25, then its 7th term is",
+          "options": [
+            {
+              "title": "30"
+            },
+            {
+              "title": "31"
+            },
+            {
+              "title": "32"
+            },
+            {
+              "title": "33",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which term of the AP: 21, 42, 63, 84,… is 210?",
+          "options": [
+            {
+              "title": "9th"
+            },
+            {
+              "title": "10th",
+              "correct": true
+            },
+            {
+              "title": "11th"
+            },
+            {
+              "title": "12th"
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "WC-g0JtEIwM": {
+      "1":{
+      "questions": [
+        {
+          "title": "Who is the father of Computers?",
+          "options": [
+            {
+              "title": " James Gosling"
+            },
+            {
+              "title": "Charles Babbage",
+              "correct": true
+            },
+            {
+              "title": "Dennis"
+            },
+            {
+              "title": "Bjarne Stroustrup"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is the correct abbreviation of COMPUTER?",
+          "options": [
+            {
+              "title": "Commonly Occupied Machines Used in Technical and Educational Research"
+            },
+            {
+              "title": "Commonly Operated Machines Used in Technical and Environmental Research"
+            },
+            {
+              "title": "Commonly Oriented Machines Used in Technical and Educational Research"
+            },
+            {
+              "title": "Commonly Operated Machines Used in Technical and Educational Research",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "What is the full form of CPU?",
+          "options": [
+            {
+              "title": "Computer Processing Unit"
+            },
+            {
+              "title": "Computer Principle Unit"
+            },
+            {
+              "title": "Central Processing Unit",
+              "correct": true
+            },
+            {
+              "title": "Control Processing Unit"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following language does the computer understand?",
+          "options": [
+            {
+              "title": "Computer understands only C Language"
+            },
+            {
+              "title": "Computer understands only Assembly Language"
+            },
+            {
+              "title": "Computer understands only Binary Language",
+              "correct": true
+            },
+            {
+              "title": "Computer understands only BASIC"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following computer language is written in binary codes only?",
+          "options": [
+            {
+              "title": "pascal"
+            },
+            {
+              "title": "machine language",
+              "correct": true
+            },
+            {
+              "title": "c"
+            },
+            {
+              "title": "c#"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is the brain of the computer?",
+          "options": [
+            {
+              "title": " Central Processing Unit",
+              "correct": true
+            },
+            {
+              "title": "memory"
+            },
+            {
+              "title": "alu"
+            },
+            {
+              "title": "control unit"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is not a characteristic of a computer?",
+          "options": [
+            {
+              "title": "Versatility"
+            },
+            {
+              "title": "Accuracy"
+            },
+            {
+              "title": "Diligence"
+            },
+            {
+              "title": "iq",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is the smallest unit of data in a computer?",
+          "options": [
+            {
+              "title": "Bit",
+              "correct": true
+            },
+            {
+              "title": "KB"
+            },
+            {
+              "title": "MB"
+            },
+            {
+              "title": "nibble"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": "Which of the following monitor looks like a television and are normally used with non-portable computer systems?",
+          "options": [
+            {
+              "title": "LED"
+            },
+            {
+              "title": "LCD"
+            },
+            {
+              "title": "CRT",
+              "correct": true
+            },
+            {
+              "title": "none"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is not a type of computer code?",
+          "options": [
+            {
+              "title": "EDIC",
+              "correct": true
+            },
+            {
+              "title": " ASCII"
+            },
+            {
+              "title": "BCD"
+            },
+            {
+              "title": "EBCDIC"
+            }
+          ]
+        },
+        {
+          "title": " Which of the following part of a processor contains the hardware necessary to perform all the operations required by a computer?",
+          "options": [
+            {
+              "title": "Controller"
+            },
+            {
+              "title": "Registers"
+            },
+            {
+              "title": "Cache"
+            },
+            {
+              "title": "Data path",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is designed to control the operations of a computer?",
+          "options": [
+            {
+              "title": "User"
+            },
+            {
+              "title": "Application Software"
+            },
+            {
+              "title": "System Software",
+              "correct": true
+            },
+            {
+              "title": "Utility Software"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following device use positional notation to represent a decimal number?",
+          "options": [
+            {
+              "title": "Pascaline"
+            },
+            {
+              "title": "Abacus",
+              "correct": true
+            },
+            {
+              "title": "Computer"
+            },
+            {
+              "title": "Calculator"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is used in EBCDIC?",
+          "options": [
+            {
+              "title": "Super Computers"
+            },
+            {
+              "title": "Mainframes",
+              "correct": true
+            },
+            {
+              "title": "Machine Codes"
+            },
+            {
+              "title": "Programming"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following are physical devices of a computer?",
+          "options": [
+            {
+              "title": "Hardware",
+              "correct": true
+            },
+            {
+              "title": "Software"
+            },
+            {
+              "title": "System Software"
+            },
+            {
+              "title": "Package"
+            }
+          ]
+        },
+        {
+          "title": " Which of the following defines the assigned ordering among the characters used by the computer?",
+          "options": [
+            {
+              "title": "Accumulation"
+            },
+            {
+              "title": "Sorting"
+            },
+            {
+              "title": "Collating Sequence",
+              "correct": true
+            },
+            {
+              "title": "Unicode"
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "CHnTTzD1pAQ":  {
+      "1":{
+      "questions": [
+        {
+          "title": " They hate it when their football team ________.",
+          "options": [
+            {
+              "title": "loses",
+              "correct": true
+            },
+            {
+              "title": "looses"
+            },
+            {
+              "title": "lost"
+            },
+            {
+              "title": "losing"
+            }
+          ]
+        },
+        {
+          "title": "By the time he was thirty, he ________ many tournaments.",
+          "options": [
+            {
+              "title": "won"
+            },
+            {
+              "title": "had won",
+              "correct": true
+            },
+            {
+              "title": "has had won"
+            },
+            {
+              "title": "was winning"
+            }
+          ]
+        },
+        {
+          "title": " Even if she _______ them, they wouldnt have come.",
+          "options": [
+            {
+              "title": "asked"
+            },
+            {
+              "title": "had asked",
+              "correct": true
+            },
+            {
+              "title": "would ask"
+            },
+            {
+              "title": "would have asked"
+            }
+          ]
+        },
+        {
+          "title": "It was raining heavy yesterday, so they ________ out.",
+          "options": [
+            {
+              "title": "did not go",
+              "correct": true
+            },
+            {
+              "title": "did not went"
+            },
+            {
+              "title": "would not go"
+            },
+            {
+              "title": "would not gone"
+            }
+          ]
+        },
+        {
+          "title": "Yesterday she got a call from her old friend, and the friend ________ her the whole story.",
+          "options": [
+            {
+              "title": "tell"
+            },
+            {
+              "title": "tells"
+            },
+            {
+              "title": "told",
+              "correct": true
+            },
+            {
+              "title": "has been telling"
+            }
+          ]
+        },
+        {
+          "title": "_______ students achieve good marks if they study hard.",
+          "options": [
+            {
+              "title": " Most",
+              "correct": true
+            },
+            {
+              "title": "Most of"
+            },
+            {
+              "title": "Most of the"
+            },
+            {
+              "title": "The most"
+            }
+          ]
+        },
+        {
+          "title": "If she was free, she ________ to you.",
+          "options": [
+            {
+              "title": "talked"
+            },
+            {
+              "title": "can talk"
+            },
+            {
+              "title": "could talked"
+            },
+            {
+              "title": "would talk",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "The number of friends and family members at the party ________ amazing.",
+          "options": [
+            {
+              "title": "was",
+              "correct": true
+            },
+            {
+              "title": "were"
+            },
+            {
+              "title": "had"
+            },
+            {
+              "title": "have"
+            }
+          ]
+        }
+      ]
+    },
+    "2":{
+      "questions": [
+        {
+          "title": "If you work really hard, you ________ good score in the upcoming examination.",
+          "options": [
+            {
+              "title": "will get",
+              "correct": true
+            },
+            {
+              "title": "will got"
+            },
+            {
+              "title": "would get"
+            },
+            {
+              "title": "would got"
+            }
+          ]
+        },
+        {
+          "title": "They have all been friends ________ their first match as a team.",
+          "options": [
+            {
+              "title": "since",
+              "correct": true
+            },
+            {
+              "title": " for"
+            },
+            {
+              "title": "from"
+            },
+            {
+              "title": "during"
+            }
+          ]
+        },
+        {
+          "title": " When she was in the university, she ________ wake up early in the morning.",
+          "options": [
+            {
+              "title": "should"
+            },
+            {
+              "title": "would",
+              "correct": true
+            },
+            {
+              "title": "will"
+            },
+            {
+              "title": "would have"
+            }
+          ]
+        },
+        {
+          "title": "He devotes much of his time ________ for the future.",
+          "options": [
+            {
+              "title": "to planning",
+              "correct": true
+            },
+            {
+              "title": " to plan"
+            },
+            {
+              "title": "plan"
+            },
+            {
+              "title": "planning"
+            }
+          ]
+        },
+        {
+          "title": "She is going to quit her job ________ they give her a pay rise.",
+          "options": [
+            {
+              "title": "or"
+            },
+            {
+              "title": "until"
+            },
+            {
+              "title": "unless",
+              "correct": true
+            },
+            {
+              "title": "providing"
+            }
+          ]
+        },
+        {
+          "title": "Near the historic monument, there is a bridge ________ the Thames River.",
+          "options": [
+            {
+              "title": "above"
+            },
+            {
+              "title": "over",
+              "correct": true
+            },
+            {
+              "title": "off"
+            },
+            {
+              "title": "towards"
+            }
+          ]
+        },
+        {
+          "title": "Katherine has finished her work, now she is ________ home.",
+          "options": [
+            {
+              "title": "going",
+              "correct": true
+            },
+            {
+              "title": "going to"
+            },
+            {
+              "title": "going for"
+            },
+            {
+              "title": "going to the"
+            }
+          ]
+        },
+        {
+          "title": " Its the first time I _______ sea-food in my life.",
+          "options": [
+            {
+              "title": "eat"
+            },
+            {
+              "title": "eaten"
+            },
+            {
+              "title": "have eaten",
+              "correct": true
+            },
+            {
+              "title": "had eaten"
+            }
+          ]
+        }
+      ]
+    }
+    }
+    
+      
+    
+  }
+}
