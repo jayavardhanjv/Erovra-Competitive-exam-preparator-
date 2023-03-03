@@ -12,8 +12,8 @@
 
 ## Table of Contents
 
-- [How to run]how-to-run
-- [Contact]contact
+- how-to-run
+- contact
 
 <!-- HOW TO RUN -->
 
