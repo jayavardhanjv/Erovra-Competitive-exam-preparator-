@@ -1,24 +1,19 @@
 # Erovra-Competitive-exam-preparator-
 
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook Page][facebook-shield]][facebook-url]
-[![Facebook Group][facebook-shield]][facebook-group-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT Title -->
 <br />
 <p align="center">
   <h3 align="center"><a href="https://github.com/jayavardhanjv/Erovra-Competitive-exam-preparator-">Erovra-Competitive-exam-preparator</a></h3>
 
-[![View on Youtube](https://erovra1.firebaseapp.com/static/media/EROVRA.1810e4d0.png)]
+[![View on Youtube](https://erovra1.firebaseapp.com/static/media/EROVRA.1810e4d0.png)](https://erovra1.firebaseapp.com/)
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-- [How to run](#how-to-run)
-- [Contact](#contact)
+- [How to run]how-to-run
+- [Contact]contact
 
 <!-- HOW TO RUN -->
 
@@ -50,22 +45,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
-Project Link: [https://github.com/learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)
+Project Link: [https://erovra1.firebaseapp.com/](https://erovra1.firebaseapp.com/)
 
-Youtube Video Link: [https://lwsbd.link/rquiz](https://lwsbd.link/rquiz)
 
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
-[facebook-group-url]: https://facebook.com/groups/learnwithsumit
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
