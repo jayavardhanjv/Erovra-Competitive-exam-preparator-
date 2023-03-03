@@ -8,13 +8,13 @@ import { getFirestore } from "firebase/firestore";
 
 // firebase configuration
 const app = initializeApp({
-  apiKey: "AIzaSyCTTkIVGjT7vKlKHDa2GhfuYygQHSzjLSY",
-  authDomain: "login-12ea1.firebaseapp.com",
-  databaseURL: "https://login-12ea1-default-rtdb.firebaseio.com",
-  projectId: "login-12ea1",
-  storageBucket: "login-12ea1.appspot.com",
-  messagingSenderId: "1084593690415",
-  appId: "1:1084593690415:web:db02680963fd16631633da"
+  apiKey: "your code",
+  authDomain: "your code",
+  databaseURL: "your code",
+  projectId: "your code",
+  storageBucket: "your code",
+  messagingSenderId: "your code",
+  appId: "your code"
 });
 
 export const db =getFirestore(app);
