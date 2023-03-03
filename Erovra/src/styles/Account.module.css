@@ -1,0 +1,17 @@
+.account {
+  width: 37%;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 2px;
+  font-size: 12px;
+}
+
+.account > span:last-child {
+  cursor: pointer;
+}
+
+ul{
+  color: whitesmoke;
+}
